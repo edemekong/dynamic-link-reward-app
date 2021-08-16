@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "653912672020",
+    "project_id": "reward-app-dynamic-link",
+    "storage_bucket": "reward-app-dynamic-link.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653912672020:android:73f0bdd69073a2f938a401",
+        "android_client_info": {
+          "package_name": "dev.flutterfairy.dynamic_link_reward_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653912672020-10flop01f1hq75vae4e0ur8264t0cpn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIas47QNRq9Z4woO0OgZoiUgsSh9m-338"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653912672020-10flop01f1hq75vae4e0ur8264t0cpn9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

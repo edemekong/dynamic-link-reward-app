@@ -1,0 +1,33 @@
+name: dynamic_link_reward_app
+description: A Project to showcase Dynamic link use for rewarding user.
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cloud_firestore: ^2.4.0
+  cupertino_icons: ^1.0.2
+  firebase_auth: ^3.0.1
+  firebase_core: ^1.4.0
+  firebase_dynamic_links: ^2.0.7
+  provider: ^5.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  # To add assets to your application, add an assets section, like this:
+  # assets:
+  #   - images/a_dot_burr.jpeg
+  #   - images/a_dot_ham.jpeg
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
